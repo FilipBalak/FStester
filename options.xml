@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datasets>
+    <dataset>
+        <source>./../data/example.csv</source>
+        <test></test>
+        <target>Class</target>
+        <tasktype></tasktype>
+        <task>RandomForestClassifier</task>
+        <fs>SelectFpr</fs>
+        <output>text</output>
+        <createdump></createdump>
+        <dumpfolder></dumpfolder>
+        <loadfile></loadfile>
+        <logfile>../logs/example.log</logfile>
+    </dataset>
+</datasets>
